@@ -16,6 +16,7 @@ const subjectSchema = new mongoose.Schema({
 });
 
 export interface ISubject {
+    _id?: mongoose.Types.ObjectId; 
     name: string;
     teacher: string;
     alumni: mongoose.Types.ObjectId[];

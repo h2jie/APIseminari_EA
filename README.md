@@ -45,5 +45,7 @@ http://localhost:9000/api-docs
 - `typescript`: Suport per a TypeScript.
 - `@types/*`: Definicions de tipus per a biblioteques utilitzades.
 
-
+## Referencias
+- https://www.youtube.com/watch?v=T1QFGwOnQxQ
+- https://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm
 
